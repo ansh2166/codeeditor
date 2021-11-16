@@ -1,7 +1,7 @@
 package me.testica.codeeditor
 
 import android.content.Context
-import android.support.v7.widget.AppCompatTextView
+import androidx.appcompat.widget.AppCompatEditText
 import android.text.method.ScrollingMovementMethod
 import android.util.AttributeSet
 import android.view.Gravity
