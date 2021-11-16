@@ -2,7 +2,7 @@ package me.testica.codeeditor
 
 import android.content.Context
 import android.graphics.Color
-import android.support.v7.widget.AppCompatEditText
+import androidx.appcompat.widget.AppCompatEditText
 import android.text.InputType
 import android.text.Spanned
 import android.text.method.ScrollingMovementMethod
